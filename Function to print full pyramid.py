@@ -10,4 +10,4 @@ def full_pyramid(n):
             print("*", end="")
         print()
    
-full_pyramid(5)
+full_pyramid(6)
